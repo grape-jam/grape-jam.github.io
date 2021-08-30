@@ -24,4 +24,5 @@ main{
 	border: none;
 	position: absolute;
 	left: 0;
+	cursor: pointer;
 }
