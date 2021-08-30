@@ -19,7 +19,9 @@ main{
 }
 
 .btn{
-	padding: 1rem;
+	padding: 0.2rem;
 	background-color: aquamarine;
 	border: none;
+	position: absolute;
+	left: 0;
 }
